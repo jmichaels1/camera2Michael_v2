@@ -908,6 +908,9 @@ public class Camera2BasicFragment extends Fragment
             }
             case R.id.btnVideo : {
                 showToast("btnVideo coño !!");
+                getActivity().getFragmentManager().beginTransaction()
+                        .replace(R.id.container, Camera2VideoFragment.newInstance())
+                        .commit();
                 break;
             }
         }
