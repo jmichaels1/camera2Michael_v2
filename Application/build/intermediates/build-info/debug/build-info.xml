@@ -5,28 +5,23 @@
     build-mode="COLD"
     density="xhdpi"
     format="10"
-    ir-eligibility="COMPATIBLE"
     plugin-version="3.0.0"
-    timestamp="1522498869805"
+    timestamp="1522499516578"
     token="-9020153573857643286"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="122" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="70" />
+        duration="0" />
     <task
         name="verifier"
-        duration="16" />
-
-    <artifact
-        location="/home/life/Downloads/camera2Michael/Application/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
+        duration="0" />
 
     <build
         build-mode="FULL"
@@ -72,16 +67,19 @@
     <build
         build-mode="COLD"
         ir-eligibility="R_CLASS_CHANGE"
-        timestamp="1522498653920"
+        timestamp="1522499473904"
         verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/life/Downloads/camera2Michael/Application/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
         <artifact
             location="/home/life/Downloads/camera2Michael/Application/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/home/life/Downloads/camera2Michael/Application/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/home/life/Downloads/camera2Michael/Application/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/home/life/Downloads/camera2Michael/Application/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/home/life/Downloads/camera2Michael/Application/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
             location="/home/life/Downloads/camera2Michael/Application/build/intermediates/split-apk/debug/slices/slice_5.apk"
@@ -95,12 +93,7 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1522498869805"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/life/Downloads/camera2Michael/Application/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
-    </build>
+        timestamp="1522499516578"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
