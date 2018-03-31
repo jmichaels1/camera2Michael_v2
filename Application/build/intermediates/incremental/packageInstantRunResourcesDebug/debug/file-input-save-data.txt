@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Mar 31 14:31:14 CEST 2018
+#Sun Apr 01 01:08:07 CEST 2018
 14.set=ANDROID_RESOURCE
 180.file=/home/life/Downloads/camera2Michael/Application/build/intermediates/res/debug/resources-debug.ap_/res/layout/select_dialog_item_material.xml
 118.set=ANDROID_RESOURCE

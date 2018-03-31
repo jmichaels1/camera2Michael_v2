@@ -1,4 +1,4 @@
-#Sat Mar 31 14:01:24 CEST 2018
+#Sun Apr 01 01:08:08 CEST 2018
 base.0=/home/life/Downloads/camera2Michael/Application/build/intermediates/transforms/dexMerger/debug/3
 renamed.0=classes.dex
 file.0=/home/life/Downloads/camera2Michael/Application/build/intermediates/transforms/dexMerger/debug/3/classes.dex
